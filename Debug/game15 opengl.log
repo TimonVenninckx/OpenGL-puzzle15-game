@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\timon\source\repos\game15 opengl\main.cpp(2,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
